@@ -1,0 +1,518 @@
+[
+    {
+        "id": 1,
+        "authorName": "Blake Nelson",
+        "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+        "authorImageUrl": "/avatar.jfif",
+        "date": "09/13/2022",
+        "category": "Assessment",
+        "rating": "Great",
+        "assessmentList": [
+            {
+                "id": 1,
+                "type": "context",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    },
+                    {
+                        "id": 2,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "perspective",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment3.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "importance",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment4.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "type": "wisdom",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "type": "insight",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "authorName": "Blake Nelson",
+        "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+        "authorImageUrl": "/avatar.jfif",
+        "date": "01/10/2020",
+        "category": "Assessment",
+        "rating": "Newset",
+        "assessmentList": [
+            {
+                "id": 1,
+                "type": "context",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    },
+                    {
+                        "id": 2,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "perspective",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment3.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "importance",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment4.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "type": "wisdom",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "type": "insight",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "authorName": "Blake Nelson",
+        "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+        "authorImageUrl": "/avatar.jfif",
+        "date": "08/26/2022",
+        "category": "Assessment",
+        "rating": "Great",
+        "assessmentList": [
+            {
+                "id": 1,
+                "type": "context",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    },
+                    {
+                        "id": 2,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "perspective",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment3.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "importance",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment4.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "type": "wisdom",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "type": "insight",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "authorName": "Blake Nelson",
+        "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+        "authorImageUrl": "/avatar.jfif",
+        "date": "10/24/2021",
+        "category": "Assessment",
+        "rating": "Great",
+        "assessmentList": [
+            {
+                "id": 1,
+                "type": "context",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    },
+                    {
+                        "id": 2,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "perspective",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment3.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "importance",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment4.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "type": "wisdom",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "type": "insight",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "authorName": "Blake Nelson",
+        "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+        "authorImageUrl": "/avatar.jfif",
+        "date": "12/13/2023",
+        "category": "Assessment",
+        "rating": "Great",
+        "assessmentList": [
+            {
+                "id": 1,
+                "type": "context",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    },
+                    {
+                        "id": 2,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "perspective",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment3.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "importance",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment4.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "type": "wisdom",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "type": "insight",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "authorName": "Blake Nelson",
+        "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+        "authorImageUrl": "/avatar.jfif",
+        "date": "09/3/2024",
+        "category": "Assessment",
+        "rating": "Great",
+        "assessmentList": [
+            {
+                "id": 1,
+                "type": "context",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    },
+                    {
+                        "id": 2,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "type": "perspective",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment3.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "type": "importance",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment4.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "type": "wisdom",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment2.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "type": "insight",
+                "date": "09/13/2022",
+                "rating": "Great",
+                "shortDescription": "I think Grant Williams did a fantastic job last game. I’m excited to see him next game against the Lakers.",
+                "assessmentSubList": [
+                    {
+                        "id": 1,
+                        "imageUrl": "/assessment1.jfif",
+                        "shortDescription": "Image I took at the last Celtics game."
+                    }
+                ]
+            }
+        ]
+    }
+]

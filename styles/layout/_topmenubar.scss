@@ -1,0 +1,35 @@
+.layout-topmenubar {
+    position: fixed;
+    width: 100%;
+    margin-top: 5rem;
+    padding: 0 2rem;
+    background-color: #ffffff;
+    z-index: 10;
+    transition: left $transitionDuration;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #CECECE;
+
+    .layout-topmenubar-component ul{
+        gap: 1rem;
+        margin-bottom: 1px;
+        border: 1px solid transparent !important;
+    }
+
+    .layout-topmenubar-component ul li a{
+        font-weight: 500;
+        font-size: 0.9rem;
+        color: #575757;
+        border-bottom: 1px solid transparent !important;
+        padding: .5rem;
+        padding-left: 0;
+        padding-right: 0;
+    }
+
+}
+
+.p-tabmenu .p-tabmenu-nav .p-tabmenuitem.p-highlight .p-menuitem-link{
+    border-bottom: 1px solid #257ABC !important;
+    color: #257ABC !important;
+}

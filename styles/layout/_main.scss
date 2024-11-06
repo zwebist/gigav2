@@ -1,0 +1,119 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    font-family: var(--font-family);
+    color: var(--text-color);
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+}
+
+.layout-wrapper {
+    min-height: 100vh;
+}
+
+// Added
+.gcolor1 {
+    color: #30A8FF;
+}
+
+.gbg-color1 {
+    background-color: #30A8FF;
+}
+
+.gcolor2 {
+    color: #257ABC;
+}
+
+.gbg-color2 {
+    background-color: #257ABC;
+}
+
+.gcolor3 {
+    color: #000000;
+}
+
+.gbg-color3 {
+    background-color: #000000;
+}
+
+.gcolor4 {
+    color: #0000001A;
+}
+
+.gbg-color4 {
+    background-color: #0000001A;
+}
+
+.gcolor5 {
+    color: #ffffff;
+}
+
+.gbg-color5 {
+    background-color: #ffffff;
+}
+
+.gcolor6 {
+    color: #E4E7EC;
+}
+
+.gbg-color6 {
+    background-color: #E4E7EC;
+}
+
+
+.selected-card {
+    border: 1px solid rgba(48, 168, 255, 1) !important;
+}
+
+.gbg-hover-color1,
+.gbg-hover-color2,
+.gbg-hover-color3,
+.gbg-hover-color4,
+.gbg-hover-color5 {
+    transition: 300ms ease-in-out;
+}
+
+.gbg-hover-color1:hover {
+    background-color: "#30A8FF" !important;
+}
+
+.gbg-hover-color2:hover {
+    background-color: "#257ABC" !important;
+}
+
+.gbg-hover-color3:hover {
+    background-color: "#000000" !important;
+}
+
+.gbg-hover-color4:hover {
+    background-color: "#0000001A" !important;
+}
+
+.gbg-hover-color5:hover {
+    background-color: #F0F0F0 !important;
+}
+
+.stepper {
+    overflow: hidden;
+    overflow-x: scroll;
+    scrollbar-width: none;
+}
+
+.stepper::-webkit-scrollbar {
+    display: none;
+}

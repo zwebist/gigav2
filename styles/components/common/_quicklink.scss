@@ -1,0 +1,24 @@
+.quicklinks-container{
+    border-radius: 20px;
+
+    .quicklinks{
+        display: flex;
+    }
+    .quicklinks-avatar{
+        padding: 1rem;
+    }
+    .quicklinks-avatar img{
+        width: 3rem;
+        height: 3rem;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+    .quicklinks-content{
+        padding: 1rem;
+        flex: auto;
+    }
+    .p-button-label {
+        font-weight: 400;
+        color: #000000;
+    }
+}

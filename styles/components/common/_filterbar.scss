@@ -1,0 +1,17 @@
+.filterbar-container{
+    overflow: hidden;
+    .button-group{
+        display: flex;
+    }
+    .button-group button{
+        border-right: 1px solid #CECECE;
+        border-radius: 0;
+        
+        .p-button-label:only-child {
+            font-weight: 400;
+            color: #000000;
+        }
+        
+    } 
+
+}

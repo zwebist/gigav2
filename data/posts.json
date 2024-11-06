@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "imageUrl": "/post1.jfif",
+        "authorName": "Savannah Nguyen",
+        "authorImageUrl": "/avatar.jfif",
+        "title": "Alabama did it again last weekend! Another W!",
+        "shortDescription": "Number 11 looked great out there. What do ya’ll think?"
+    },
+    {
+        "id": "2",
+        "imageUrl": "/post2.jfif",
+        "authorName": "Marvin McKinney",
+        "authorImageUrl": "/avatar.jfif",
+        "title": "The latest results from this Hockey season",
+        "shortDescription": "What’s up with Hockey this season? I have been following for a few years..."
+    },
+    {
+        "id": "3",
+        "imageUrl": "/post3.png",
+        "authorName": "Dianne Russell",
+        "authorImageUrl": "/avatar.jfif",
+        "title": "The latest results from this Hockey season",
+        "shortDescription": "What’s up with Hockey this season? I have been following for a few years..."
+    },
+    {
+        "id": "4",
+        "imageUrl": "/post4.jfif",
+        "authorName": "Ronald Richards",
+        "authorImageUrl": "/avatar.jfif",
+        "title": "The latest results from this Hockey season",
+        "shortDescription": "What’s up with Hockey this season? I have been following for a few years..."
+    },
+    {
+        "id": "5",
+        "imageUrl": "/post5.jfif",
+        "authorName": "Esther Howard",
+        "authorImageUrl": "/avatar.jfif",
+        "title": "The latest results from this Hockey season",
+        "shortDescription": "What’s up with Hockey this season? I have been following for a few years..."
+    },
+    {
+        "id": "6",
+        "imageUrl": "/post3.jfif",
+        "authorName": "Esther Howard",
+        "authorImageUrl": "/avatar.jfif",
+        "title": "The latest results from this Hockey season",
+        "shortDescription": "What’s up with Hockey this season? I have been following for a few years..."
+    }
+]
